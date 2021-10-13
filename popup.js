@@ -16,6 +16,8 @@ function helpMe(){
     var yyyy = today.getFullYear();
     
     today = yyyy + '-' + mm + '-' + dd;
+
+    /* UPDATE THESE AS YOU SEE FIT */
     
     var name = 'Lname, Fname';
     var phone = '206-867-5309';
@@ -23,7 +25,7 @@ function helpMe(){
     var building = '4545+Building';
     var notes = '4th floor';
 
-    /* BUILDINGS
+    /* BUILDINGS: copy from below to replace building var above
 
     '4545+Building'
     'UW+Tower'
