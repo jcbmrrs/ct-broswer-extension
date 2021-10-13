@@ -8,4 +8,5 @@
 2. Enable "Developer mode" in top right-hand corner
 3. Click on "Load Unpacked"
 4. Select the "ct-browser-extension" folder
-5. Use as a typical Chrome Browser Extension
+5. Close extensions tab; open any valid URL (e.g. google.com)
+6. Launch Extension by clicking Extension and then clicking CT! button
