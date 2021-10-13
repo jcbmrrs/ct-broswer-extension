@@ -1,0 +1,14 @@
+{
+    "name": "UW-IT Contact Tracing Helper",
+    "description": "Make it faster, easier to fill out our contact tracing form",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
