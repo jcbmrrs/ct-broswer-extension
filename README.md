@@ -1,1 +1,0 @@
-CT Helper Plugin
