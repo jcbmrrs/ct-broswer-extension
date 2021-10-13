@@ -6,7 +6,7 @@
 ## In a text editor
 1. Open `ct-browser-extension/popup.js`
 2. Edit the `name`, `phone`, `netid`, `building`, and `notes` vars to your liking
-**IMPORTANT NOTE**: Be sure to use `+` instead of spaces
+    - **IMPORTANT NOTE**: Be sure to use `+` instead of spaces
 
 ## In Google Chrome (or alternate Chrome-based browser)
 1. Open `chrome://extensions/`
