@@ -17,7 +17,7 @@ function helpMe(){
     
     today = yyyy + '-' + mm + '-' + dd;
     
-    var name = 'Morris, Jacob';
+    var name = 'Lname, Fname';
     var phone = '206-867-5309';
     var netid = 'uwnetid';
     var building = '4545+Building';
