@@ -3,7 +3,16 @@
     "description": "Making it faster & easier to fill out our contact tracing form",
     "version": "1.1",
     "manifest_version": 3,
-    "permissions": ["storage", "tabs", "scripting"],
+    "permissions": [
+      "storage", 
+      "tabs", 
+      "scripting",
+      "notifications"
+    ],
+    "host_permissions": [
+      "http://*/",
+      "https://*/"
+    ],
 
     "background": {
       "service_worker": "background.js"
