@@ -39,8 +39,6 @@ function helpMe(){
     + name 
     + '&entry.1453294910='
     + phone
-    + '&entry.2009734546='
-    + netid
     + '&entry.2027746959='
     + today 
     + '+08:00'
