@@ -18,6 +18,26 @@
       "service_worker": "background.js"
     },
     "action": {
-      "default_popup": "popup.html"
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "/img/icon16.png",
+        "24": "/img/icon24.png",
+        "32": "/img/icon32.png",
+        "48": "/img/icon48.png",
+        "64": "/img/icon64.png",
+        "128": "/img/icon128.png",
+        "256": "/img/icon256.png",
+        "512": "/img/icon512.png"
+      }
+    },
+    "icons": {
+      "16": "/img/icon16.png",
+      "24": "/img/icon24.png",
+      "32": "/img/icon32.png",
+      "48": "/img/icon48.png",
+      "64": "/img/icon64.png",
+      "128": "/img/icon128.png",
+      "256": "/img/icon256.png",
+      "512": "/img/icon512.png"
     }
   }
