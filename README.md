@@ -15,3 +15,6 @@
 4. Select the "ct-browser-extension" folder
 5. Close extensions tab; open any valid URL (e.g. google.com)
 6. Launch Extension by clicking Extension and then clicking CT! button
+
+![Contact Tracing example using pushpins and string between them](https://github.com/jcbmrrs/ct-browswer-extension/blob/main/img/icon512.png?raw=true)
+Icons created from https://www.sciline.org/wp-content/uploads/2021/02/cropped-covid-19-immunity-and-contact-tracing.jpg
