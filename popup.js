@@ -19,10 +19,10 @@ function helpMe(){
 
     /* UPDATE THESE AS YOU SEE FIT */
     
-    var name = 'Martinez, Edgar';
+    var name = 'Martinez,+Edgar';
     var phone = '206-867-5309';
     var building = '4545+Building';
-    var notes = '4th floor';
+    var notes = '4th+floor';
 
     /* BUILDINGS: copy from below to replace building var above
 
