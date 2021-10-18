@@ -19,7 +19,7 @@ function helpMe(){
 
     /* UPDATE THESE AS YOU SEE FIT */
     
-    var name = 'Lname, Fname';
+    var name = 'Martinez, Edgar';
     var phone = '206-867-5309';
     var building = '4545+Building';
     var notes = '4th floor';
