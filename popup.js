@@ -21,7 +21,6 @@ function helpMe(){
     
     var name = 'Lname, Fname';
     var phone = '206-867-5309';
-    var netid = 'uwnetid';
     var building = '4545+Building';
     var notes = '4th floor';
 
