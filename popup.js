@@ -34,7 +34,7 @@ function helpMe(){
     */
 
     url = 'https://docs.google.com/forms/d/e/1FAIpQLSciSn-hBjK-XNVPa1kj9IR79VM2GkR0tPj_Of0dk22u3c9ERA/viewform?usp=pp_url'
-    + '&entry.1856794426=I+attest+that+prior+to+coming+in+to+work+that+I+AM+NOT+experiencing+any+Covid-19+symptoms.&entry.1935343127=' 
+    + '&entry.1856794426=I+attest+that+prior+to+coming+in+to+work+that+I+AM+NOT+experiencing+any+Covid-19+symptoms+that+I+cannot+attribute+to+another+health+condition.&entry.1935343127=' 
     + name 
     + '&entry.1453294910='
     + phone
